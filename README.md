@@ -18,7 +18,7 @@ Enjoy it!
    For Ubuntu
    
    ```
-   $ sudo apt0-get install -y monit
+   $ sudo apt-get install -y monit
    ```
    
 2. Copy config files
